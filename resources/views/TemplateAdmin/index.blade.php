@@ -58,40 +58,34 @@
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
-                    <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Orçamentos</span></a>
-            </li>
-
-            <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="/produto">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Produtos</span></a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="/marca">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Marcas</span></a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="/categoria">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Categorias</span></a>
-            </li>            
+            </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="/cor">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Cores</span></a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="/usuario">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Usuários</span></a>
-            </li>            
+            </li>
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item active">

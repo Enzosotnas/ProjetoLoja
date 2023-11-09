@@ -14,8 +14,8 @@
 
                 <label>Situação</label>
                 <select name="situacao" style="margin-bottom: 10px">
-                    <option value="1" {{ $categoria['situacao'] == 1 ? 'selected' : '' }}>Ativo</option>
-                    <option value="0" {{ $categoria['situacao'] == 0 ? 'selected' : '' }}>Inativo</option>
+                    <option value="1" {{ $categoria['situacao'] == 1 ? 'selected' : '' }}></option>
+                    <option value="0" {{ $categoria['situacao'] == 0 ? 'selected' : '' }}></option>
                 </select>
 
                 <div style="width: 100%; display: flex; justify-content: flex-end">
